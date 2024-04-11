@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Introduction to Algebra",
+      "author": "John Smith",
+      "subject": "Mathematics",
+      "grade": "8th Grade"
+    },
+    {
+      "id": 2,
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "subject": "History",
+      "grade": "11th Grade"
+    },
+    {
+      "id": 3,
+      "name": "World History: Ancient Civilizations",
+      "author": "Emma Brown",
+      "subject": "History",
+      "grade": "9th Grade"
+    },
+    {
+      "id": 4,
+      "name": "Chemical Reactions",
+      "author": "Michael Johnson",
+      "subject": "Chemistry",
+      "grade": "10th Grade"
+    },
+    {
+      "id": 5,
+      "name": "Art Appreciation",
+      "author": "Sophia Lee",
+      "subject": "History",
+      "grade": "12th Grade"
+    },
+    {
+      "id": 6,
+      "name": "Computer Programming Basics",
+      "author": "David Clark",
+      "subject": "Chemistry",
+      "grade": "9th Grade"
+    },
+    {
+      "id": 7,
+      "name": "Environmental Science",
+      "author": "Emily White",
+      "subject": "Biology",
+      "grade": "10th Grade"
+    },
+    {
+      "id": 8,
+      "name": "Shakespearean Literature",
+      "author": "William Shakespeare",
+      "subject": "Physics",
+      "grade": "12th Grade"
+    },
+    {
+      "id": 9,
+      "name": "Physics: Motion and Forces",
+      "author": "Robert Johnson",
+      "subject": "Physics",
+      "grade": "11th Grade"
+    },
+    {
+      "id": 10,
+      "name": "Geography: Physical and Human",
+      "author": "Anna Davis",
+      "subject": "History",
+      "grade": "7th Grade"
+    },
+    {
+      "id": 11,
+      "name": "Biology: The Study of Life",
+      "author": "James Brown",
+      "subject": "Biology",
+      "grade": "9th Grade"
+  },
+  {
+      "id": 12,
+      "name": "History of Europe: From Antiquity to Modern Times",
+      "author": "Sophie Miller",
+      "subject": "History",
+      "grade": "10th Grade"
+  }
+  ]
